@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resume Writer"
+  short_description: "Write clear, evidence-based resumes"
+  default_prompt: "Use $resume-writer to review my resume and improve its structure without inventing facts."
