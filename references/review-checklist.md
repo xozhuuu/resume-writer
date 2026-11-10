@@ -11,6 +11,7 @@ Use this checklist selectively. Do not turn every item into a mandatory section 
 
 ## Personal summary
 
+- On Chinese resumes, is the heading exactly `个人综述`?
 - Are there at most three concise points?
 - Does each point have evidence and connect to the role?
 - Are platform, education, skills, portfolio, or language claims specific and accurate?

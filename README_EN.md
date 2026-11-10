@@ -6,6 +6,7 @@ A resume writing skill for turning verified experience into clear, role-relevant
 
 - Audits a resume for clarity, relevance, and evidence.
 - Selects up to three supported points for a personal summary.
+- Uses the exact heading “个人综述” for this section in Chinese resumes.
 - Rewrites work, internship, and project descriptions with context, personal contribution, deliverables, and outcomes.
 - Tailors emphasis to a job description when one is provided.
 - Makes length decisions based on relevance and readability instead of a fixed one-page rule.

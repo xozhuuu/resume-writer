@@ -2,12 +2,14 @@
 
 These are structural examples only. Replace every bracketed field with verified candidate information. Never copy example claims into a real resume as facts.
 
-## Personal summary
+## 个人综述（Personal summary）
+
+For a Chinese resume, use the heading `个人综述` exactly. Do not rename it to `个人简介` or `自我评价`.
 
 ```text
-- [Relevant experience/platform] focused on [role-relevant domain]; contributed to [verified project or outcome].
-- Built/used [specific skill or tool] to deliver [artifact] for [users or workflow].
-- [Language/portfolio/other differentiator] demonstrated by [evidence].
+- [相关经历/平台]，聚焦 [岗位相关领域]；参与/负责 [可核实的项目或成果]。
+- 使用 [具体技能/工具] 为 [用户/业务流程] 交付 [产物]，带来 [可核实的结果]。
+- [语言/作品集/其他差异点]，证据为 [可核实的证明]。
 ```
 
 If only one or two points are supported, use one or two. Do not invent a third point to fill the template.
